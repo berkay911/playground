@@ -1,1 +1,1 @@
-sss
+print("SA.")
