@@ -1,4 +1,4 @@
-x = 54321
+x = 16
 epsilon = 0.01
 num_guesses = 0
 low = 0.0
