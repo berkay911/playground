@@ -52,7 +52,7 @@ def remove_duplicates(list,e):
 #print(L) 
 
 import copy
-L = [1,2[3,4],5,[6,7],8,9]
+L = [1,2,[3,4],5,[6,7],8,9]
 
 L_alias = L
 L_shallow_copy_1 = L[:]
@@ -60,3 +60,6 @@ L_shallow_copy_2 = copy.copy(L)
 L_deep_copy = copy.deepcopy(L)
 
 
+from speak import talk
+talk("Alice", 25)
+talk("Bob")
