@@ -9,4 +9,3 @@ def split_tuple(input_tuple):
     return (odd_tuple, even_tuple)
 
 print(split_tuple((1,2,3,4,5,6,7,8,9,10)))
-   
