@@ -1,5 +1,5 @@
 epsilon = 0.01
-k = 54321
+k = 25
 guess = k / 2.0
 num_guesses = 0
 

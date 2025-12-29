@@ -10,7 +10,7 @@ def bisection_sqrt(x):
     
     epsilon = 0.01
     low = 0
-    high = max(1.0, x)
+    high = x
     guess = (low + high) / 2.0
 
     while abs(guess**2 - x) >= epsilon:
